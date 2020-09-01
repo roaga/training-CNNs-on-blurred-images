@@ -1,7 +1,6 @@
 # Training CNNs on Blurred Images
 Some code from my Summer 2019 research at the Computational Neuroscience Lab at Fordham University, under Dr. Daniel Leeds.
-Research reached the Finals at NYC Science and Engineering Fair 2020 and Semifinals at Junior Science and Humanities Symposium.
-Part of work presented at Vision Sciences Society Conference 2020.
+Precursor to work I co-authored at the Vision Sciences Society Conference 2020.
 
 The goal of the research was to explore how CNNs could be made more robust on low-quality data, by answering the question of why infants have blurry vision--does it serve any purpose, and if so, can it be applied to CNNs?
 
